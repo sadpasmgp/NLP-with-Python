@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xml:lang="en-US"
+	xml:base="https://languagelog.ldc.upenn.edu/nll/wp-atom.php"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+	<title type="text">Language Log</title>
+	<subtitle type="text"></subtitle>
+
+	<updated>2021-07-30T12:07:07Z</updated>
+
+	<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll" />
+	<id>https://languagelog.ldc.upenn.edu/nll/?feed=atom</id>
+	<link rel="self" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom" />
+
+	
+	<entry>
+		<author>
+			<name>Victor Mair</name>
+							<uri>https://ealc.sas.upenn.edu/people/prof-victor-h-mair</uri>
+						</author>
+
+		<title type="html"><![CDATA[Excepted for publication]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51665&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=excepted-for-publication" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51665</id>
+		<updated>2021-07-30T07:07:07Z</updated>
+		<published>2021-07-30T07:07:07Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Colloquial" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Errors" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Miswriting" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Orthography" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Philology" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Phonetics and phonology" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Reading" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Vernacular" />
+		<summary type="html"><![CDATA[I wrote to a colleague who helped me edit a paper that it had been accepted for publication.  She wrote back, "I’m glad it is excepted". Some may look upon such a typo as "garden variety", but I believe that it tells us something profoundly significant about the primacy of sound over shape, an issue [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51665&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=excepted-for-publication"><![CDATA[<p>I wrote to a colleague who helped me edit a paper that it had been accepted for publication.  She wrote back, "I’m glad it is excepted".</p>
+<p>Some may look upon such a typo as "garden variety", but I believe that it tells us something profoundly significant about the primacy of sound over shape, an issue that we have often debated on Language Log, including how to regard typographical errors in general, but also how to read old Chinese texts (e.g., copyists' mistakes, deterioration of texts over centuries of editorial transmission, etc.).</p>
+<p>Often, when you read a Chinese text and parts of it just don't make any sense, if you ignore the superficial semantic signification of the characters with which it is written, but focus more on the sound, suddenly the meaning of the text will become crystal clear.  In point of fact, much of the commentarial tradition throughout Chinese history consists of this kind of detective work &#8212; sorting out which morphemes were really intended by a given string of characters.</p>
+<p><span id="more-51665"></span></p>
+<p>The best commentators, readers, and translators of Chinese texts &#8212; individuals such as <a href="https://en.wikipedia.org/wiki/Arthur_Waley">Arthur Waley</a> (1889-1966) &#8212; possess an uncanny instinct for plumbing beneath the surface of a text to get at the heart of the language it expresses.  Of course, men like Waley are not infallible (given the vast complexities and historical vagaries of Chinese texts, that would be utterly impossible), yet their brilliant philological / phonological insights enable them time and again to make stunningly illuminating explications and felicitous renderings.  (Incidentally, of all the great modern Sinologists, Waley was the least academic, but most literary.)  This is especially important for those who work on vernacular writings, where there are frequently no standard orthographical conventions for recording common expressions in the spoken language, such as happens with medieval Dunhuang popular literature at every turn.  Indeed, this is why Dunhuang vernacular texts are centrally situated at the birth of Sinitic vernacular writing.</p>
+<p>Consequently, I keep a close eye open, not only for typing mistakes committed by others, but also my own, which I often find to be amusing, but telling.</p>
+<p>&nbsp;</p>
+<p><b>Selected readings</b></p>
+<ul>
+<li>"<a title="Permanent link to Acquiring literacy in medieval Dunhuang" href="https://languagelog.ldc.upenn.edu/nll/?p=50263" rel="bookmark">Acquiring literacy in medieval Dunhuang</a>" (2/20/21)<span class=""><br /></span></li>
+<li><span class="">Victor H. Mair, "Lay Students and the Making of Written Vernacular Narrative: An Inventory of Tun-huang Manuscripts", </span><cite class="">Chinoperl Papers</cite><span class=""> 10 (1981), 5–96.</span></li>
+<li>"<a title="Permanent link to Take stalk of: thoughts on philology and Sinology" href="https://languagelog.ldc.upenn.edu/nll/?p=46562" rel="bookmark">Take stalk of: thoughts on philology and Sinology</a>" (3/29/20)</li>
+<li>"<a title="Permanent link to " href="https://languagelog.ldc.upenn.edu/nll/?p=46720" rel="bookmark">'One I first saw': more on homophonically induced typing errors</a>" (4/8/20)</li>
+<li>"<a title="Permanent link to Spelling mistakes in English and miswritten characters in Chinese" href="https://languagelog.ldc.upenn.edu/nll/?p=4377" rel="bookmark">Spelling mistakes in English and miswritten characters in Chinese</a>" (12/18/12)</li>
+<li>"<a title="Permanent link to Mistakes in English and in Chinese" href="https://languagelog.ldc.upenn.edu/nll/?p=36698" rel="bookmark">Mistakes in English and in Chinese</a>" (2/13/18)</li>
+<li>"<a href="http://languagelog.ldc.upenn.edu/nll/?p=3750">The unpredictability of Chinese character formation and pronunciation</a>" (2/6/12)</li>
+<li><a href="http://languagelog.ldc.upenn.edu/nll/?p=3890">"The esthetics of East Asian writing"</a></li>
+<li>"<a title="Permanent link to The esthetics of East Asian writing" href="https://languagelog.ldc.upenn.edu/nll/?p=3890" rel="bookmark">The esthetics of East Asian writing</a>" (4/7/12)</li>
+<li>"<a title="Permanent link to " href="https://languagelog.ldc.upenn.edu/nll/?p=47719" rel="bookmark">'Between the Eyes and the Ears': SPP turns 300</a>" (7/20/20)</li>
+<li>"<a title="Permanent link to A revolution in Sinitic language conceptualization and learning" href="https://languagelog.ldc.upenn.edu/nll/?p=49903" rel="bookmark">A revolution in Sinitic language conceptualization and learning</a>" (1/7/21)</li>
+<li>"<a title="Permanent link to How to teach Literary Sinitic / Classical Chinese" href="https://languagelog.ldc.upenn.edu/nll/?p=39905" rel="bookmark">How to teach Literary Sinitic / Classical Chinese</a>" (9/6/18)</li>
+<li>"<a title="Permanent link to Aphantasia — absence of the mind’s eye" href="http://languagelog.ldc.upenn.edu/nll/?p=31735" rel="bookmark">Aphantasia — absence of the mind’s eye</a>" (3/24/17)</li>
+<li>"<a title="Permanent link to The miracle of reading and writing Chinese characters" href="http://languagelog.ldc.upenn.edu/nll/?p=31781" rel="bookmark">The miracle of reading and writing Chinese characters</a>" (3/26/17)</li>
+<li>"<a title="Permanent link to Ancient Chinese mottos" href="https://languagelog.ldc.upenn.edu/nll/?p=46663" rel="bookmark">Ancient Chinese mottos</a>" (4/5/20)</li>
+<li>"<a title="Permanent link to Why Literary Sinitic is so darn hard" href="https://languagelog.ldc.upenn.edu/nll/?p=42963" rel="bookmark">Why Literary Sinitic is so darn hard</a>" (5/30/19)</li>
+<li>"<a href="http://www.pinyin.info/readings/texts/moser.html">Why Chinese Is So Damn Hard</a>" (8/91)</li>
+</ul>
+<h3 style="padding-left: 40px;">    (简体字：<a href="http://www.pinyin.info/readings/texts/moser_zhongwen_simplified.html">为什么中文这么TM难？</a>)</h3>
+<h3 style="padding-left: 40px;">    (繁體字：<a href="http://www.pinyin.info/readings/texts/moser_zhongwen_traditional.html">為什麼中文這麼TM難？</a>)</h3>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51665&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=excepted-for-publication#comments" thr:count="21" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51665" thr:count="21" />
+			<thr:total>21</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Victor Mair</name>
+							<uri>https://ealc.sas.upenn.edu/people/prof-victor-h-mair</uri>
+						</author>
+
+		<title type="html"><![CDATA[Taiwan&#039;s gold medalist with an unusual name]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51650&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=taiwans-gold-medalist-with-an-unusual-name" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51650</id>
+		<updated>2021-07-29T10:22:44Z</updated>
+		<published>2021-07-29T10:22:44Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Language and sports" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Names" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Writing systems" />
+		<summary type="html"><![CDATA[Taiwanese weightlifter Kuo Hsing-chun (Guō Xìng-chún 郭婞淳) won a gold medal the other day in Tokyo: "OLYMPICS/Kuo thrilled at winning Olympic gold, but could be hungry for more", Focus Taiwan (7/28/21) Mark Swofford observes: One odd thing about the weightlifter's name is the middle character: 婞. Wenlin gives that as an obscure character for a [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51650&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=taiwans-gold-medalist-with-an-unusual-name"><![CDATA[<p>Taiwanese weightlifter Kuo Hsing-chun (Guō Xìng-chún 郭婞淳) won a gold medal the other day in Tokyo:</p>
+<p style="padding-left: 40px;">"<a href="https://focustaiwan.tw/sports/202107280019">OLYMPICS/Kuo thrilled at winning Olympic gold, but could be hungry for more</a>", Focus Taiwan (7/28/21)</p>
+<p>Mark Swofford observes:</p>
+<p style="padding-left: 40px;">One odd thing about the weightlifter's name is the middle character: 婞. <a href="https://wenlin.com/">Wenlin</a> gives that as an obscure character for a morpheme for "hate". That, at least for me, is an unexpected meaning, because the parts of the character are clearly, of course, 女 and 幸 &#8212; which are used for morphemes for "woman" and "good fortune".</p>
+<p style="padding-left: 40px;"><span id="more-51650"></span></p>
+<p style="padding-left: 40px;">Here's a bit from the article on how she came by her name, which was meant to sound like "xìngcún" (倖存/幸存). Then I suppose they changed the 人 to a 女 because she was a girl.</p>
+<blockquote style="padding-left: 40px;">Kuo was born in the eastern county of Yilan in 1993. It was a difficult birth; the umbilical cord had wrapped around her neck, and her mother struggled in labor for over 10 hours. Kuo's given name, Hsing-chun, was chosen due to its close pronunciation to the Chinese term hsing tsun (倖存), which means to have survived by luck or accident.</blockquote>
+<p><a href="https://www.zdic.net/hans/%E5%A9%9E">ZDIC</a> has 婞 with the meaning "hate" too, and <a href="https://en.wiktionary.org/wiki/%E5%A9%9E">Wiktionary</a> has it with the meanings "stubborn, obstinate", so you have to be careful when you start making up what you think are your own characters.  They might just already exist, with a meaning that you really didn't want!</p>
+<p>P.S.:  婞 is not among the 9,933 <a href="https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO">most frequent characters</a>.</p>
+<p>&nbsp;</p>
+<p><b>Selected readings</b></p>
+<ul>
+<li>"<a title="Permanent link to The infinitude of
+        Chinese characters" href="https://languagelog.ldc.upenn.edu/nll/?p=48404" rel="bookmark">The infinitude of Chinese characters</a>" (9/9/20) &#8212; with a very long bibliography having scores of entries</li>
+<li>"<a title="Permanent link to 4-digit numbers versus
+        5-digit numbers" href="https://languagelog.ldc.upenn.edu/nll/?p=51625" rel="bookmark">4-digit numbers versus 5-digit numbers</a>" (7/27/21) &#8212; with lengthy bibliography</li>
+<li>"<a title="Permanent link to Uncommon words of anguish" href="https://languagelog.ldc.upenn.edu/nll/?p=51510" rel="bookmark">Uncommon words of anguish</a>" (7/18/21) &#8212; with short bibliography</li>
+</ul>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51650&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=taiwans-gold-medalist-with-an-unusual-name#comments" thr:count="4" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51650" thr:count="4" />
+			<thr:total>4</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Mark Liberman</name>
+							<uri>http://ling.upenn.edu/~myl</uri>
+						</author>
+
+		<title type="html"><![CDATA[Better PR for bats]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51655&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=better-pr-for-bats" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51655</id>
+		<updated>2021-07-28T14:00:16Z</updated>
+		<published>2021-07-28T13:55:07Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Words words words" />
+		<summary type="html"><![CDATA[A link from Michael Glazer, with the note "Bats have been getting a bad name recently epidemiologically, so it’s nice to hear them mentioned in a positive way": "Nathan Ruiz, "Young bats offer hope&#8230;", WaPo 7/27/2021. Well, OK, the full headline makes the real context clear: "Young bats offer hope as Orioles fall to Marlins". [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51655&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=better-pr-for-bats"><![CDATA[<p>A link from Michael Glazer, with the note "Bats have been getting a bad name recently epidemiologically, so it’s nice to hear them mentioned in a positive way": "Nathan Ruiz, "<a href="https://www.washingtonpost.com/sports/2021/07/27/5e3084de-ee96-11eb-bf80-e3877d9c5f06_story.html" target="_blank" rel="noopener">Young bats offer hope&#8230;</a>", <em>WaPo</em> 7/27/2021.</p>
+<p>Well, OK, the full headline makes the real context clear: "Young bats offer hope as Orioles fall to Marlins". But as Michael observes,</p>
+<p style="padding-left: 40px;"><span style="color: #000080;">Zoologically, we’ve got three of the Vertebrata subphylum’s seven Classes here. Stuff in Sidewinders and Sharks, and there’s another two. Jawless fishes and amphibians strike me as a bit more challenging in the way of sports team names. The Mar-a-Lago Lampreys? The Calaveras Jumping Frogs? I dunno.</span></p>
+<p>And his closing: "I leave you to identify a linguistics hook!"</p>
+<p><span id="more-51655"></span></p>
+<p>The most obvious hook is the etymological one &#8212; how did the common name of Chiroptera come to be the same as the word for "A stick or stout piece of wood", and especially for the stick-like objects that play a role in cricket, baseball, etc.</p>
+<p>The OED's etymology for the "stick" meaning is already complicated:</p>
+<p style="padding-left: 40px;">As the nominative singular does not occur in 13th cent., it is uncertain whether it was <em>bat</em> or <em>batte</em>, and thus whether it was an adoption of Old French <em>batte</em> (partly identical in sense, referred by Littré to <em>battre</em> to beat), or represented an Old English <em>*bat</em> (feminine) ‘fustis,’ alleged by Somner, from an unknown source. The forms in Layamon rather favour the latter; but in any case some of the senses are from French <em>batte</em>. The supposed Old English <em>*bat</em> is by some referred to a Celtic origin; compare Irish and Gaelic <em>bat</em>, <em>bata</em> staff, cudgel. The development and relations of the senses are obscure: some of them appear to be from the verb, and some may be immediately due to onomatopoeia, from the sound of a solid, slightly dull, blow: compare <em>pat</em>. Thus there may be two or three originally distinct words, though no longer satisfactorily separable.</p>
+<p>And the etymology of the Chiroptera sense is just as tangled, but mostly separate:</p>
+<p style="padding-left: 40px;">The modern <em>bat</em>, found c1575, takes the place of Middle English <em>bakke</em>, apparently &lt; Scandinavian; compare Danish <em>aften-bakke</em> ‘evening-bat,’ Old Danish <em>nath-bakkæ</em>, Old Swedish (Ihre) <em>natt-backa</em> ‘night-bat.’ Swedish dialect have also <em>natt-batta</em>. n<em>att-blacka</em>: with the latter compare Icelandic l<em>eðr-blaka</em> ‘bat,’ lit. ‘leather-flutterer,’ &lt; <em>blaka</em> ‘to flap, wave, flutter with wings,’ whence it has been suggested that <em>bakke, backa</em> have lost an l; but as the l does not appear in the Old Swedish and Old Danish forms above, this is very unlikely. The medieval Latin <em>blatta, blacta, batta</em>, glossed ‘lucifuga, vespertilio, vledermus’ (Diefenbach Suppl. to Du Cange) = classical Latin <em>blatta</em> ‘an insect that shuns the light’ (<em>blattae lucifugae</em>, Vergil) ‘cockroach, moth,’ is distinct in origin, but may have influenced the English change to <em>bat</em>; evidence is wanting. <em>Back-</em> in combination, <em>backie-bird</em>, <em>bawkie-bird</em> still survive in north English and Sc.</p>
+<p>So it's not a surprise that stout sticks and Chiroptera have different names in most (all?) other languages.</p>
+<p>Some years ago, our room in a nice Taipei hotel had a bat hanging in the window curtains, who flew around the room when we entered, and resisted our attempts to persuade it to leave. On heading out for our next local event, we described the bat problem to the helpful staff at the front desk, whose English seemed to be excellent. And when we returned a few hours later, they helpfully presented us with a <a href="https://www.slugger.com/en-us/baseball/wood/series-5/series-5-legacy-ash-c271-baseball-bat" target="_blank" rel="noopener">Louisville Slugger</a>. I hate to imagine what they thought we wanted to do with it.</p>
+<p>As I recall, a short impromptu language lesson resolved the lexical misunderstanding; we left the stout stick with the front desk; and the bat was willing to fly out the window once it was dark outside.</p>
+<p>&nbsp;</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51655&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=better-pr-for-bats#comments" thr:count="15" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51655" thr:count="15" />
+			<thr:total>15</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Victor Mair</name>
+							<uri>https://ealc.sas.upenn.edu/people/prof-victor-h-mair</uri>
+						</author>
+
+		<title type="html"><![CDATA[Scammers and swindlers with accents]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51633&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=scammers-and-swindlers-with-accents" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51633</id>
+		<updated>2021-07-28T10:52:05Z</updated>
+		<published>2021-07-28T10:52:05Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Accents" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Language and the law" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Pronunciation" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Topolects" />
+		<summary type="html"><![CDATA[The focus of this post is the nature and modus operandi of the piànzi 騙子 ("swindler; scammer"). According to this article in Chinese, scammers do not speak good Mandarin because having an "accent" enables them to carry out target screening.  Such an argument may seem like a bit of a stretch, but let's see how [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51633&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=scammers-and-swindlers-with-accents"><![CDATA[<p>The focus of this post is the nature and modus operandi of the piànzi 騙子 ("swindler; scammer").</p>
+<p>According to <a href="https://m.thepaper.cn/newsDetail_forward_13537968">this article in Chinese</a>, scammers do not speak good Mandarin because having an "accent" enables them to carry out target screening.  Such an argument may seem like a bit of a stretch, but let's see how this supposedly works out through the eyes of two Mandarin speaking PRC citizens who have been the intended victims of the schemes of such piànzi 騙子, who pose as representing banks and other financial institutions, public security bureaus, and so forth.</p>
+<p style="padding-left: 40px;"><b>I</b></p>
+<div style="padding-left: 40px;">The article suggests that there are three reasons why phone scammers speak in strong topolect accents rather than standard Mandarin:1. Accent serves as a "mechanism of filtration", because those who are not sensitive enough to non-Mandarin accents and who can't recognize what is or is not Mandarin are more prone to fraud. 2. The scammers are simply not capable of speaking standard Mandarin given the current situation of Mandarin popularization in China. The scammers are more likely to be unschooled, and they usually share the same accent. 3. It is because of the high illiteracy rate in China that many people can't tell frauds from reliable phone calls made by authentic institutions.</div>
+<p><span id="more-51633"></span></p>
+<div style="padding-left: 40px;">I think the article's explanation makes some sense to a certain extent because in most cases, the staff of banks, government bureaus, census offices, courts, and police, etc., whom scammers often impersonate are required to speak standard Mandarin when making phone calls. As a result, most people would assume that the caller must be a scammer if he/she speaks in broad accents. And those who can't tell topolects from Mandarin and who lack the opportunity to get to know this common sense (that Mandarin is used in such calls when they are genuine) are thus more likely to be deceived. This point of view reflects, if not strengthens, the absolute domination of Mandarin and marginalization of topolects in China, and I think it unfairly associates the inability of speaking and recognizing Mandarin with ignorance and low intelligence.   </div>
+<div style="padding-left: 40px;"> </div>
+<div style="padding-left: 40px;">Personally, I don't think the scammers deliberately use topolect accents instead of Mandarin when making phone frauds.  It's just the way they talk in everyday life.</div>
+<div style="padding-left: 40px;"> </div>
+<div style="padding-left: 40px;"> </div>
+<div style="padding-left: 40px;"><b>II</b></div>
+<div style="padding-left: 40px;"> </div>
+<div style="padding-left: 40px;">The reasons given in the article make sense. Most members of a swindler group are from the same village. Such schemes are a popular form of business at the beginning of their growth, like other legal township business in China, especially in the southern provinces. Then the swindlers find it's an efficient way to lock in their victims. For most of the swindle calls I received, the speakers had an accent of the southern provinces. There was only one exception when I received a call of a woman with Beijing accent who sounded about forty or fifty asking me to pay a visit to the police station in the area of my former work unit. I almost believed her, but when I called back, it was an invalid number. Still I can't understand what profit the swindler can make by asking me to pay a visit to a police station? In the past 2-3 years, I haven't received any calls from swindlers. Instead, it is the calls from real estate agents that favor me from time to time now.</div>
+<p>Other respondents point out that some swindlers and scammers do speak decent Mandarin, but they are definitely few in number and not nearly so successful as those who speak heavily accented topolects.</p>
+<p>In my estimation, the article makes a lot of dubious, if not specious, assumptions about people who speak with accents.  My guess is that a deeper motivation for the writing of this article is that its authors lament the low percentage of people in China who actually speak standard Mandarin.  If you watch videos of newscasts or unrehearsed street speech on social media in China &#8212; e.g., recordings of people reacting to the floods in Henan &#8212; much of it is very hard to understand if you only know standard Mandarin.  Henan accent is thus strongly marked &#8212; even though Henan is smack dab in the center of the Mandarin speaking areas of China &#8212; and, to one degree or another, constitutes a barrier to free and unimpeded communication with persons from other parts of the country.  Because the authors of the article are disappointed by the low level of language unification throughout China, they attempt to stigmatize non-MSM (Modern Standard Mandarin) speech as associated with disreputable and even criminal types.  The converse of all this besmirching of accented speech is that people who speak MSM are more intelligent and law-abiding.</p>
+<p>In my estimation, the situation surrounding topolectal speech usage in the PRC is far more complex than that presented in the cited article and needs to be treated more sensitively from sociolinguistic and historical angles if we are to arrive at a true appreciation of what it signifies.  And this is not even to mention the matter of completely different Sinitic and non-Sinitic languages in the PRC!</p>
+<p>&nbsp;</p>
+<p><b>Selected readings</b></p>
+<ul>
+<li>"<a title="Permanent link to Dialect vs. accent (vs. language)" href="https://languagelog.ldc.upenn.edu/nll/?p=40839" rel="bookmark">Dialect vs. accent (vs. language)</a>" (11/3/18)</li>
+<li>"<a title="Permanent link to Sinitic topolects" href="https://languagelog.ldc.upenn.edu/nll/?p=48364" rel="bookmark">Sinitic topolects</a>" (9/2/20)</li>
+<li>"<a title="Permanent link to The Sinophone" href="http://languagelog.ldc.upenn.edu/nll/?p=41988" rel="bookmark">The Sinophone</a>" (2/28/19)</li>
+<li>"<a title="Permanent link to Sinitic languages without the Sinographic script" href="https://languagelog.ldc.upenn.edu/nll/?p=42029" rel="bookmark">Sinitic languages without the Sinographic script</a>" (3/5/19)</li>
+<li>"<a title="Permanent link to Writing Sinitic languages with phonetic scripts" href="http://languagelog.ldc.upenn.edu/nll/?p=25799" rel="bookmark">Writing Sinitic languages with phonetic scripts</a>" (5/20/16)</li>
+<li>"<a title="Permanent link to Dialect or Topolect?" href="https://languagelog.ldc.upenn.edu/nll/?p=2423" rel="bookmark">Dialect or Topolect?</a>" (7/1/10)</li>
+<li>"<a title="Permanent link to The American Heritage Dictionary of the English Language, 5th edition" href="https://languagelog.ldc.upenn.edu/nll/?p=4326" rel="bookmark">The American Heritage Dictionary of the English Language, 5th edition</a>" (11/14/12)</li>
+<li>"<a title="Permanent link to " href="https://languagelog.ldc.upenn.edu/nll/?p=4615" rel="bookmark">'Chinese' well beyond Mandarin</a>" (5/10/13)</li>
+</ul>
+<p>[Thanks to Yijie Zhang, Tong Wang, and Chenfeng Wang]</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51633&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=scammers-and-swindlers-with-accents#comments" thr:count="11" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51633" thr:count="11" />
+			<thr:total>11</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Mark Liberman</name>
+							<uri>http://ling.upenn.edu/~myl</uri>
+						</author>
+
+		<title type="html"><![CDATA[Trash talk]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51637&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=trash-talk" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51637</id>
+		<updated>2021-07-28T12:04:37Z</updated>
+		<published>2021-07-28T08:07:43Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Linguistics in the comics" />
+		<summary type="html"><![CDATA[Tank McNamara's current plot series starts from Connor McGregor's recent injury: Markku Uusipaavalniemi exists, and is prominent enough to have a Wikipedia entry, though it doesn't flag his trash talking skills. The entries for the other cited athletes also don't mention the topic, although there is a Wikipedia entry for "trash-talk", which says that "Trash-talk [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51637&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=trash-talk"><![CDATA[<p><a href="https://www.gocomics.com/tankmcnamara/2021/07/26" target="_blank" rel="noopener">Tank McNamara's current plot series</a> starts from <a href="https://www.mmanews.com/2021/07/dustin-poirier-says-mcgregor-saved-himself-from-ko-loss-at-ufc-264/" target="_blank" rel="noopener">Connor McGregor's recent injury</a>:<br />
+<a href="http://languagelog.ldc.upenn.edu/myl/TrashTalk1.png"><img title="Click to embiggen" src="http://languagelog.ldc.upenn.edu/myl/TrashTalk1.png" width="490" /></a><br />
+<a href="http://languagelog.ldc.upenn.edu/myl/TrashTalk2.png"><img title="Click to embiggen" src="http://languagelog.ldc.upenn.edu/myl/TrashTalk2.png" width="490" /></a><br />
+<a href="http://languagelog.ldc.upenn.edu/myl/TrashTalk3.png"><img title="Click to embiggen" src="http://languagelog.ldc.upenn.edu/myl/TrashTalk3.png" width="490" /></a><br />
+<span id="more-51637"></span></p>
+<p><a href="https://en.wikipedia.org/wiki/Markku_Uusipaavalniemi" target="_blank" rel="noopener">Markku Uusipaavalniemi</a> exists, and is prominent enough to have a Wikipedia entry, though it doesn't flag his trash talking skills. The entries for the other cited athletes also don't mention the topic, although there is a Wikipedia entry for "<a href="https://en.wikipedia.org/wiki/Trash-talk" target="_blank" rel="noopener">trash-talk</a>", which says that "Trash-talk was commonly used by the heavyweight boxing champion Muhammad Ali in the 1960s and 70s", and cites Conor McGregor as "a more recent example of a prominent trash-talker".</p>
+<p>The OED added an entry for <em>trash talk</em> in 2008, updated in 2019, glossed as "Speech which condemns a person as trash; <em>(Sport)</em> ostentatiously insulting or boastful rhetoric delivered with the intention of demoralizing, intimidating, or humiliating an opponent; (also, in extended use) any derisory or boastful statement or statements". The earliest OED citation for that sense is from 1981:</p>
+<p style="padding-left: 40px;"><strong>1981</strong> <em>Washington Post</em> (Nexis) 24 Sept. f1 Folks think Leonard has gotten above his raisings, moving out to a mansion in the country, and..has forgotten other black men&#8230; Mike McDaniel would fight you before agreeing to such trash talk.<br />
+<strong>1990 </strong> <em>Sports Illustr.</em> 4 June 48/3 He also amplified Janney's nightmare with a steady stream of trash talk and a maniacal grin.<br />
+<strong>2000</strong> <em>Time</em> 18 Dec. 43/1 The five..conservatives..voted to issue the stay&#8230; The dissenters concluded that the majority had ‘acted unwisely’—which passes for serious trash talk on the high court.</p>
+<p>The 1981 WaPo citation implies that the term was already in general use at that point. I think I remember "trash talk" being used in an athletic context in the 1960s. But the semantic drift involved is so natural and gradual that the cumulative innovations in usage may have happened multiple times.</p>
+<p>The original meaning of the word <em>trash,</em> according to the OED, was "That which is broken, snapped, or lopped off anything in preparing it for use; broken or torn pieces, as twigs, splinters, ‘cuttings from a hedge, small wood from a copse’ ( <em>Eng. Dial. Dict.</em>), straw, rags; refuse", with citations to 1555.</p>
+<p style="padding-left: 40px;"><strong>1555</strong> Bill in Chancery in <em>Athenæum</em> 17 July (1886) 92/2 A carpenter's yarde, wherein he dothe laye his tymber and Trasshe.<br />
+<strong>1574</strong> E. Hellowes tr. A. de Guevara <em>Familiar Epist.</em> 407 How wil he giue wood to the hospitall, that warmes him selfe by the trash of straw?<br />
+<strong>1676</strong> J. Evelyn <em>Philos. Disc. Earth</em> 181 If you lay any fearn-brakes or other trash about them.<br />
+<strong>1693</strong> T. Urquhart &amp; P. A. Motteux tr. F. Rabelais 3rd Bk. Wks. l. 401 They break..to very Trash the woody parcels.</p>
+<p>The generalization to the metaphorical sense  "Anything of little or no worth or value; worthless stuff; rubbish; dross. (Said of things material or immaterial)" seems to have been instant &#8212; the OED's citations date from 1529, earlier than the literal (?) sense:</p>
+<p style="padding-left: 40px;"><strong>a1529</strong> J. Skelton <em>Magnyfycence</em> (?1530) sig. Giv As for his plate of syluer and suche trasshe.<br />
+<strong>1612</strong> T. Taylor <em>Αρχὴν Ἁπάντων: Comm. Epist. Paul to Titus</em> (ii. 14) 515 What can the Papist say now for his mony-masses, pardons, indulgences, and such trash.<br />
+<strong>a1616</strong> W. Shakespeare <em>Othello</em> (1622) iii. iii. 162 Who steales my purse, steals trash .</p>
+<p>And similarly the slightly narrower sense "Worthless notions, talk, or writing; nonsense; ‘rubbish’, ‘stuff’'":</p>
+<p style="padding-left: 40px;"><strong>1542</strong> N. Udall tr. Erasmus <em>Apophthegmes</em> Erasm. Pref. Like trash &amp; bagguage been those saiynges that are incidente in oracions.<br />
+<strong>1659</strong> J. Milton <em>Considerations touching Hirelings</em> 138 Those theological disputations..rather perplex and leaven pure doctrin with scholastical trash.<br />
+<strong>1737</strong> H. Fielding <em>Hist. Reg. 1736</em> i. 3 My Register is not to be fill'd..with Trash for Want of News.<br />
+<strong>1874</strong> F. C. Burnand <em>My Time</em> xxx. 293 Don't let me hear any more of such trash.</p>
+<p>So phrases like "talk trash" have been Out There for a long time &#8212; thus this passage from the <a href="https://www.loc.gov/item/sn90061066/" target="_blank" rel="noopener"><em>Sedalia Weekly Bazoo</em></a>, 6/13/1882:</p>
+<p><a href="http://languagelog.ldc.upenn.edu/myl/SedaliaTalkTrash.png"><img title="Click to see some context" src="http://languagelog.ldc.upenn.edu/myl/SedaliaTalkTrash0.png" width="490" /></a></p>
+<p>The contextual narrowing to "domestic refuse, garbage" was apparently a U.S. innovation, dated to the early 20th century:</p>
+<p style="padding-left: 40px;"><strong>1906</strong> H. de B. Parsons <em>Disposal of Municipal Refuse</em> iii. 21 Rubbish is discarded trash, composed principally of all kinds of paper, wood, rags, mattresses, bedding, boxes,..tin cans,..bottles,..and the like.<br />
+<strong>1925</strong> <em>Amer. City</em> Jan. 54/2 The collection of garbage and trash may be made by the city with its own organization.<br />
+<strong>1931</strong> W. G. McAdoo <em>Crowded Years</em> i. 12 The abandoned..building&#8230; Its steps were littered with trash, and many..windows were broken.</p>
+<p>I'm certain that cultural norms for abuse of opponents, in athletic as well as military contests, have been around for a long time &#8212; there's some trash talk in <a href="https://www.biblegateway.com/passage/?search=1%20Samuel%2017&amp;version=KJV" target="_blank" rel="noopener">the story of David and Goliath</a>, for example.</p>
+<p>But the question for today is, when and where did the term "trash talk" start being used in its modern athletic sense?</p>
+<p>The New York Times doesn't start using the term in the sports section until the 1990s, though at that point they assume that everybody knows what it means &#8212; e.g. Robert Lipsyte, "<a href="https://www.nytimes.com/1994/06/05/sports/pro-basketball-the-art-of-trash-talk-not-limited-to-a-court.html" target="_blank" rel="noopener">The Art of Trash Talk Not Limited to a Court</a>", 6/5/1994:</p>
+<p style="padding-left: 40px;"><span style="color: #000080;">Three of the greatest trash talkers in the history of sports &#8212; Muhammad Ali, Henry Kissinger and Marge Schott &#8212; made encore performances recently as if to remind the current designated mouths that there have been giants in the field. Call it Homeric boasting, bench jockeying, psyching out, trash talk is the latest label for a line of hostile chatter that goes back at least to Cain putting down Abel before eliminating him from the race. [&#8230;]</span></p>
+<p style="padding-left: 40px;"><span style="color: #000080;">It was Ali, first as Cassius Clay, who brought bodacious black style to the global village as a way of talking his opponents off balance and publicizing his fights. He sold real tickets along with wolf tickets. The cultural commentator, Nelson George, has pointed out that Ali's descriptions of himself as "pretty" was the "mack talk" of pimps and his assigning animal names to his opponents &#8212; Sonny (the Big Ugly Bear) Liston and Floyd (the Rabbit) Patterson &#8212; was in the African tradition of elevating oneself by dehumanizing one's enemies. George even saw Bundini Brown, Ali's assistant trainer for uplift, as a kind of Mr. Interlocutor from the minstrel shows.</span></p>
+<p style="padding-left: 40px;"><span style="color: #000080;">The mostly black-on-black trash talking in pro basketball delights some, offends others. Is it a further expression of creative style (hip-hop hoops?), a reflection of street-corner desperation; is it indicative of the game's tilt from finesse to confrontation?</span></p>
+<p>The <a href="https://books.google.com/ngrams/graph?content=trash+talk&amp;year_start=1920&amp;year_end=2010&amp;corpus=15&amp;smoothing=3" target="_blank" rel="noopener">Google Ngrams plot</a> also points to the 1990s as the starting point of widespread "trash talk" usage in the general literate culture. But there's evidence of a relevant not-limited-to-sports sense in Black vernacular much earlier, e.g. <a href="https://www.google.com/books/edition/Story/q7YPAAAAIAAJ?hl=en&amp;gbpv=1&amp;bsq=%22trash+talk%22&amp;dq=%22trash+talk%22&amp;printsec=frontcover" target="_blank" rel="noopener">this 1933 snippet from <em>Story</em></a>:</p>
+<p><a href="http://languagelog.ldc.upenn.edu/myl/Story1933TrashTalk.png"><img title="Click to embiggen" src="http://languagelog.ldc.upenn.edu/myl/Story1933TrashTalk.png" width="490" /></a></p>
+<p>&nbsp;</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51637&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=trash-talk#comments" thr:count="7" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51637" thr:count="7" />
+			<thr:total>7</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Victor Mair</name>
+							<uri>https://ealc.sas.upenn.edu/people/prof-victor-h-mair</uri>
+						</author>
+
+		<title type="html"><![CDATA[4-digit numbers versus 5-digit numbers]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51625&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=4-digit-numbers-versus-5-digit-numbers" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51625</id>
+		<updated>2021-07-27T12:52:17Z</updated>
+		<published>2021-07-27T12:39:18Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Language and computers" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Writing systems" />
+		<summary type="html"><![CDATA[Phil H wrote these comments to "Uncommon words of anguish" (7/18/21): The anguish is very real. My wife had a character in her name that most computers will not reproduce ([石羡]), despite it being relatively common in names in our part of the world, and has been refused bank accounts, credit cards, and a mortgage [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51625&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=4-digit-numbers-versus-5-digit-numbers"><![CDATA[<p>Phil H wrote these comments to "<a title="Permanent link to Uncommon words of anguish" href="https://languagelog.ldc.upenn.edu/nll/?p=51510" rel="bookmark">Uncommon words of anguish</a>" (7/18/21):</p>
+<p style="padding-left: 40px;">The anguish is very real. My wife had a character in her name that most computers will not reproduce ([石羡]), despite it being relatively common in names in our part of the world, and has been refused bank accounts, credit cards, and a mortgage because of it. In the end she changed her name rather than continue to deal with the hassle. The character is in the standard, but it was too late for us.</p>
+<p style="padding-left: 40px;">&#8230;there have always been ways to get the character onto a computer, but any given piece of bank software might not recognise it, and any given bank functionary might be unfamiliar with them. We then had trouble when some organisations used the pinyin XIAN in place of the character, but that then made their documentation inconsistent with her national ID card (which had the right character on it) and so yet further bodies would not accept them… It was the standard "mild computer snafu + large inflexible bureaucracy = major headache" equation.</p>
+<p>An anonymous correspondent, a computer scientist, sent in the following remarks:</p>
+<p style="padding-left: 40px;">Phil H is talking about a character which is in a "supplementary plane" in Unicode (and similarly in GB-18030).  Unfortunately, an awful lot of software was only ever tested on Basic Multilingual Plane characters.</p>
+<p style="padding-left: 40px;"><span id="more-51625"></span>The way I explained it to a Chinese friend was: imagine you live in a small town where everybody's telephone number is 4 digits.  Then they build a load of new houses on the edge of town, but when they come to connect them up, they find there aren't enough numbers left to give all the new people 4-digit telephone numbers, so they get 5 digits.<br /><br />But none of the existing 4-digit residents want to change their numbers into 5-digit numbers, so they carry on having 4-digit numbers.  And they know each other very well, and only ever call each other, and it's very rare indeed that any one of them wants to call up one of those new 5-digit people living on the edge of town, so some of them still go through their lives thinking that telephone numbers only ever have 4 digits.<br /><br />Which unfortunately leads to some slightly-careless equipment designers testing their equipment only on 4-digit numbers, not checking if 5-digit numbers also exist.  Which means, when you want to use a 5-digit number, you just might find that some piece of equipment which had claimed to be fully compatible with the phone system suddenly doesn't work.<br /><br />(Oh, and there does exist a way to translate a 5-digit number into TWO of the 4-digit numbers, which is supposed to make it compatible with any old equipment that insists on 4-digit numbers.  But some of that equipment doesn't support putting two telephone numbers in the space of one.)<br /><br />If they'd insisted on giving EVERYBODY 5-digit numbers, then all the makers of equipment would have been forced to face the reality of 5 digits. But then everybody would have had to change, and that's too awkward.<br /><br />At least a lot of Western designers are facing up to 5-digit numbers now. Why?  Because a whole bunch of EMOJI characters are in that 5-digit area! So I think the way to get blog tools etc to support the extra characters is simply to say we want to use all the latest emoji: English developers can relate to that more than they do to rare characters in a language they don't understand.  (Just hope they don't make some other assumption like "if it's a 5-digit number then the first digit will always be a 1 because that covers the emoji".)<br /><br />Meanwhile China is, apparently, building new towns and cities which have the 5-digit characters in their names.  That'll make them more common, once people start moving in to those places and they want to write about where they live without having to use some cheap-looking homophone.</p>
+<p>Does the anonymous correspondent's analogy work?</p>
+<p>&nbsp;</p>
+<p><b>Selected readings</b></p>
+<ul>
+<li>"<a title="Permanent link to Sinographic inputting:  " href="https://languagelog.ldc.upenn.edu/nll/?p=50368" rel="bookmark">Sinographic inputting: 'it's nothing' — not</a>" (2/22/21)</li>
+<li>"<a title="Permanent link to Chinese character inputting" href="https://languagelog.ldc.upenn.edu/nll/?p=21729" rel="bookmark">Chinese character inputting</a>" (19/17/15)</li>
+<li>"<a title="Permanent link to Stroke order inputting" href="http://languagelog.ldc.upenn.edu/nll/?p=3533" rel="bookmark">Stroke order inputting</a>" (10/30/11)</li>
+<li>"<a title="Permanent link to Cantonese input methods" href="http://languagelog.ldc.upenn.edu/nll/?p=17231" rel="bookmark">Cantonese input methods</a>" (1/20/15)</li>
+<li>"<a title="Permanent link to Google Translate Chinese
+          inputting" href="http://languagelog.ldc.upenn.edu/nll/?p=4446" rel="bookmark">Google Translate Chinese inputting</a>" (1/27/13)</li>
+<li>"<a title="Permanent link to Creeping Romanization in Chinese" href="http://languagelog.ldc.upenn.edu/nll/?p=4157" rel="bookmark">Creeping Romanization in Chinese</a>" (8/30/12)</li>
+<li>"<a title="Permanent link to Swype
+        and Voice Recognition for mobile device inputting" href="http://languagelog.ldc.upenn.edu/nll/?p=9885" rel="bookmark">Swype and Voice Recognition for mobile device inputting</a>" (1/22/14) — esp. ¶¶ 3-5</li>
+<li>"<a title="Permanent link to Language
+        notes from Macao and Hong Kong" href="http://languagelog.ldc.upenn.edu/nll/?p=13089" rel="bookmark">Language notes from Macao and Hong Kong</a>" (6/22/14) — search for "Starbucks"</li>
+<li>"<a title="Permanent link to Easy versus exact" href="https://languagelog.ldc.upenn.edu/nll/?p=34969" rel="bookmark">Easy versus exact</a>" (10/14/17)</li>
+<li>"<a title="Permanent link to The infinitude of
+        Chinese characters" href="https://languagelog.ldc.upenn.edu/nll/?p=48404" rel="bookmark">The infinitude of Chinese characters</a>" (9/9/20) — with a long list of dozens of relevant posts</li>
+<li>"<a title="Permanent link to Sinographs by the numbers" href="https://languagelog.ldc.upenn.edu/nll/?p=41496" rel="bookmark">Sinographs by the numbers</a>" (2/22/19)</li>
+<li>"<a title="Permanent link to How many more Chinese characters are needed?" href="http://languagelog.ldc.upenn.edu/nll/?p=29034" rel="bookmark">How many more Chinese characters are needed?</a>" (10/25/16)</li>
+<li>"<a title="Permanent link to Chinese character inputting" href="http://languagelog.ldc.upenn.edu/nll/?p=21729" rel="bookmark">Chinese character inputting</a>" (10/17/15)</li>
+<li>"<a title="Permanent link to Is there a practical limit to how much can fit in Unicode?" href="http://languagelog.ldc.upenn.edu/nll/?p=35136" rel="bookmark">Is there a practical limit to how much can fit in Unicode?</a>" (10/27/17)</li>
+<li>"<a title="Permanent link to Character crises" href="http://languagelog.ldc.upenn.edu/nll/?p=38784" rel="bookmark">Character crises</a>" (6/15/18)</li>
+<li>"<a title="Permanent link to Ask Language Log: Looking up hanzi for ignoramuses" href="http://languagelog.ldc.upenn.edu/nll/?p=35585" rel="bookmark">Ask Language Log: Looking up hanzi for ignoramuses</a>" (11/29/17)</li>
+<li>"<a title="Permanent link to Sinological suffering" href="http://languagelog.ldc.upenn.edu/nll/?p=31859" rel="bookmark">Sinological suffering</a>" (3/31/17)</li>
+<li>"<a title="Permanent link to Writing characters and writing letters" href="http://languagelog.ldc.upenn.edu/nll/?p=40604" rel="bookmark">Writing characters and writing letters</a>" (11/17/18)</li>
+<li>"<a title="Permanent link to An immodest proposal: " href="http://languagelog.ldc.upenn.edu/nll/?p=40730" rel="bookmark">An immodest proposal: 'Boycott the Chinese Language'</a>" (11/18/18)</li>
+<li>"<a title="Permanent link to The wrong way to write Chinese characters" href="http://languagelog.ldc.upenn.edu/nll/?p=40819" rel="bookmark">The wrong way to write Chinese characters</a>" (11/28/18)</li>
+<li>"<a title="Permanent link to The unpredictability of Chinese character formation and pronunciation" href="http://languagelog.ldc.upenn.edu/nll/?p=3750" rel="bookmark">The unpredictability of Chinese character formation and pronunciation</a>" (2/6/12)</li>
+<li>"<a title="Permanent link to The unpredictability of Chinese character formation and pronunciation, pt. 2" href="https://languagelog.ldc.upenn.edu/nll/?p=41764" rel="bookmark">The unpredictability of Chinese character formation and pronunciation, pt. 2</a>" (2/11/19)</li>
+<li>"<a title="Permanent link to Information content of text in English and Chinese" href="https://languagelog.ldc.upenn.edu/nll/?p=34925" rel="bookmark">Information content of text in English and Chinese</a>" (10/9/17)</li>
+<li>"<a title="Permanent link to Sinitic languages without the Sinographic script" href="https://languagelog.ldc.upenn.edu/nll/?p=42029" rel="bookmark">Sinitic languages without the Sinographic script</a>" (3/5/19)</li>
+</ul>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51625&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=4-digit-numbers-versus-5-digit-numbers#comments" thr:count="15" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51625" thr:count="15" />
+			<thr:total>15</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Victor Mair</name>
+							<uri>https://ealc.sas.upenn.edu/people/prof-victor-h-mair</uri>
+						</author>
+
+		<title type="html"><![CDATA[Fully vaccinated or not in English, French, and Chinese]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51621&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fully-vaccinated-or-not-in-english-french-and-chinese" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51621</id>
+		<updated>2021-07-27T06:29:44Z</updated>
+		<published>2021-07-26T16:35:22Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Language and medicine" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Semantics" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Signs" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Translation" />
+		<summary type="html"><![CDATA[Sign in Vancouver International Airport: Segregated line-ups for vaccinated and unvaccinated international arrivals at Vancouver International Airport. Photo by Andrew Aziz. (Source) The English and French versions are self-explanatory. The Chinese notices are hyperexplicit: wèi wánchéng xīnguān yìmiáo quánchéng jiēzhòng de lǚkè 未完成新冠疫苗全程接种的旅客 Passengers who have not completed the full course of novel coronavirus vaccination [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51621&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fully-vaccinated-or-not-in-english-french-and-chinese"><![CDATA[<p>Sign in Vancouver International Airport:</p>
+<p align="center"><a href="http://languagelog.ldc.upenn.edu/~bgzimmer/vancouvervax.jpg"><img title="Click to embiggen" src="http://languagelog.ldc.upenn.edu/~bgzimmer/vancouvervax.jpg" alt="" width="475" /></a><br />
+Segregated line-ups for vaccinated and unvaccinated international arrivals at Vancouver International Airport. Photo by Andrew Aziz. (<a href="https://torontosun.com/news/local-news/warmington-vancouver-airport-now-separates-passengers-based-on-vax-status" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://torontosun.com/news/local-news/warmington-vancouver-airport-now-separates-passengers-based-on-vax-status&amp;source=gmail&amp;ust=1627410925882000&amp;usg=AFQjCNFe6Q5zmNBV8vmssbbbYeD-3RZDlg">Source</a>)</p>
+<p><span id="more-51621"></span></p>
+<p>The English and French versions are self-explanatory.</p>
+<p>The Chinese notices are hyperexplicit:</p>
+<p style="padding-left: 40px;">wèi wánchéng xīnguān yìmiáo quánchéng jiēzhòng de lǚkè<br />
+未完成新冠疫苗全程接种的旅客<br />
+<span lang="en">Passengers who have not completed the full course of novel coronavirus vaccination</span></p>
+<p style="padding-left: 40px;">yǐ wánchéng xīnguān yìmiáo quánchéng jiēzhòng de lǚkè<br />
+已完成新冠疫苗全程接种的旅客<br />
+<span lang="en">Passengers who have already completed the full course of novel coronavirus vaccination</span></p>
+<p><span lang="en">There must be some burning motivation or powerful explanation for the stark difference between the French and English versions on the one hand and the Chinese version on the other hand.  I think I have an idea of what the reason is, but would like to hear from LL readers first.<br />
+</span></p>
+<p><b><span lang="en">Selected readings</span></b></p>
+<ul>
+<li><span lang="en">"</span><a title="Permanent link to The five don'ts of novel coronavirus vaccination in Hainan, China" href="https://languagelog.ldc.upenn.edu/nll/?p=50753" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D50753&amp;source=gmail&amp;ust=1627410925882000&amp;usg=AFQjCNGqAMz7fx0cUeFjmgTXmMQCAlWngA">The five don'ts of novel coronavirus vaccination in Hainan, China</a><span lang="en">" (4/6/21)<br />
+</span></li>
+<li>"<a title="Permanent link to Vaccines that do a good job of not preventing disease and death" href="https://languagelog.ldc.upenn.edu/nll/?p=51097" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D51097&amp;source=gmail&amp;ust=1627410925882000&amp;usg=AFQjCNHH929n_RtUMA_c2U2jUVfTzE5f1g">Vaccines that do a good job of not preventing disease and death</a>" (5/28/21)</li>
+<li>"<a title="Permanent link to Merriam-Webster gives " href="https://languagelog.ldc.upenn.edu/nll/?p=50886" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D50886&amp;source=gmail&amp;ust=1627410925882000&amp;usg=AFQjCNHfquM9qZYqPI3QOhSLP6apVgsMMA">Merriam-Webster gives 'vaccine' a new definition</a>" (4/30/21)</li>
+<li>"<a title="Permanent link to Baffling propaganda: " href="https://languagelog.ldc.upenn.edu/nll/?p=42347" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D42347&amp;source=gmail&amp;ust=1627410925882000&amp;usg=AFQjCNE2Qwa5oyhKFTbtRyV4Ob5f5jLVTQ">Baffling propaganda: "black" and "evil" in contemporary Chinese society</a>" (4/7/19)</li>
+<li>"<a title="Permanent link to Chinese coronavirus linguistic war" href="https://languagelog.ldc.upenn.edu/nll/?p=46120" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46120&amp;source=gmail&amp;ust=1627410925882000&amp;usg=AFQjCNEbXPp2ZjKj1kwJn9Wr8l4ZvbNpow">Chinese coronavirus linguistic war</a>" (2/22/20) — note how early this started, even before lockdowns were imposed in America</li>
+<li>"<a title="Permanent link to The PRC censors its own national anthem" href="https://languagelog.ldc.upenn.edu/nll/?p=46020" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46020&amp;source=gmail&amp;ust=1627410925882000&amp;usg=AFQjCNHFc-LHmiQXUWG5JyCnK7_N1i-yyA">The PRC censors its own national anthem</a>" (2/9/20)</li>
+<li>"<a title="Permanent link to Novel transmission of the novel coronavirus" href="https://languagelog.ldc.upenn.edu/nll/?p=46405" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46405&amp;source=gmail&amp;ust=1627410925882000&amp;usg=AFQjCNEoh2KpLeQyB4TVVbOSPh9nSJAkVA">Novel transmission of the novel coronavirus</a>" (3/15/20)</li>
+<li>"<a title="Permanent link to A novel lexicon for the novel coronavirus" href="https://languagelog.ldc.upenn.edu/nll/?p=46462" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46462&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNFy3h4ZS-vBvNdlksvALICA5Ietyg">A novel lexicon for the novel coronavirus</a>" (3/20/20)</li>
+<li>"<a title="Permanent link to Coronavirus slang and the rapid evolution of English" href="https://languagelog.ldc.upenn.edu/nll/?p=47179" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D47179&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNEnI6ybZlIREyIBlc1C8fnyUlg9GQ">Coronavirus slang and the rapid evolution of English</a>" (3/22/20)</li>
+<li><a title="Permanent link to Coronavirus à la japonaise" href="https://languagelog.ldc.upenn.edu/nll/?p=46415" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46415&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNGqz5ZLAWjKdXHoVqSAgcbELme-jw">Coronavirus à la japonaise</a>" (3/15/20)</li>
+<li>"<a title="Permanent link to COVID-19 response?" href="https://languagelog.ldc.upenn.edu/nll/?p=46411" target="_blank" rel="bookmark noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46411&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNFDAQuKBZaAjkDDuWzGVmtqK1Q6aA">COVID-19 response?</a>" (3/14/20)</li>
+<li>"<a title="Permanent link to Annual Reviews response to the COVID-19 pandemic" href="https://languagelog.ldc.upenn.edu/nll/?p=46408" target="_blank" rel="bookmark noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46408&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNEylMY9HMsRTopdXdrJtPz_j_pOAw">Annual Reviews response to the COVID-19 pandemic</a>" (3/14/20)</li>
+<li>"<a title="Permanent link to Scaring off the coronavirus" href="https://languagelog.ldc.upenn.edu/nll/?p=46347" target="_blank" rel="bookmark noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46347&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNENTQ8UUVSI9AHd34D3t-PssFDJ9w">Scaring off the coronavirus</a>" (3/3/20)</li>
+<li>"<a title="Permanent link to Spoofing the " href="https://languagelog.ldc.upenn.edu/nll/?p=46321" target="_blank" rel="bookmark noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46321&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNHZQVonWETLLkNjQ5bRoLVT74akRw">Spoofing the 'crisis' meme</a>" (3/3/20)</li>
+<li>"<a title="Permanent link to " href="https://languagelog.ldc.upenn.edu/nll/?p=46254" target="_blank" rel="bookmark noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46254&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNH1S0jcV5ppH5gTyNRkHHwLls-quQ">'Forty Days and Forty Nights'</a>" (2/29/20)</li>
+<li>"<a title="Permanent link to Winnie the Flu" href="https://languagelog.ldc.upenn.edu/nll/?p=46161" target="_blank" rel="bookmark noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46161&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNFkCt44PVScIDT-BJk3vDYWJY0Z0g">Winnie the Flu</a>" (2/24/20)</li>
+<li>"<a title="Permanent link to Facebook Guang Guang Guang Guang translate loop" href="https://languagelog.ldc.upenn.edu/nll/?p=46149" target="_blank" rel="bookmark noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46149&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNHqLI5q1OUXsTqHm8sESAfPL8IP4Q">Facebook Guang Guang Guang Guang translate loop</a>" (2/22/20)</li>
+<li>"<a title="Permanent link to Chinese coronavirus linguistic war" href="https://languagelog.ldc.upenn.edu/nll/?p=46120" target="_blank" rel="bookmark noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46120&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNH76adBFG8Q_WJIemYOroFx1T13dg">Chinese coronavirus linguistic war</a>" (2/22/20)</li>
+<li>"<a title="Permanent link to " href="https://languagelog.ldc.upenn.edu/nll/?p=46081" target="_blank" rel="bookmark noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46081&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNFFDA4D-stGNXMNonCyTfWSmIdLJg">'Crisis = danger + opportunity' redux</a>" (2/19/20)</li>
+<li>"<a title="Permanent link to Braised enterovirus, anyone?" href="https://languagelog.ldc.upenn.edu/nll/?p=367" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D367&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNEy3doTJIQ8UZBZEtMUhPnwzcaggQ">Braised enterovirus, anyone?</a>" (7/16/08)</li>
+<li>"<a title="Permanent link to Heirs to the dragon / cage" href="https://languagelog.ldc.upenn.edu/nll/?p=47219" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D47219&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNGru5rHUErsMDQVCw09Gw9B9Ww1Gw">Heirs to the dragon / cage</a>" (5/26/20)</li>
+<li>"<a title="Permanent link to All clear in kindergarten" href="https://languagelog.ldc.upenn.edu/nll/?p=42977" target="_blank" rel="bookmark noopener" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D42977&amp;source=gmail&amp;ust=1627410925883000&amp;usg=AFQjCNGNZ6oh0hQ5OyBzx3ZPnPSWr-Yrww">All clear in kindergarten</a>" (5/30/19)</li>
+</ul>
+<p>[Thanks to Nicholas Tursi]</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51621&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fully-vaccinated-or-not-in-english-french-and-chinese#comments" thr:count="20" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51621" thr:count="20" />
+			<thr:total>20</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Victor Mair</name>
+							<uri>https://ealc.sas.upenn.edu/people/prof-victor-h-mair</uri>
+						</author>
+
+		<title type="html"><![CDATA[Ukrainian is not Russian]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51618&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ukrainian-is-not-russian" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51618</id>
+		<updated>2021-07-26T08:13:08Z</updated>
+		<published>2021-07-26T08:13:08Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Classification" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Language and politics" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Topolects" />
+		<summary type="html"><![CDATA[Paul Goble has an article in Window on Eurasia &#8212; New Series (7/24/21) that is short, succinct, and significant enough to quote in its entirety:  "Despite Putin’s Words, Moscow Does Recognize the Ukrainian Language as Distinct, Yaroshinskaya Says":             Staunton, July 17 – All[a] Yaroshinskaya, a senior Moscow commentator who was politically active at the [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51618&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ukrainian-is-not-russian"><![CDATA[<p>Paul Goble has an article in Window on Eurasia &#8212; New Series (7/24/21) that is short, succinct, and significant enough to quote in its entirety:  "<a href="http://windowoneurasia2.blogspot.com/2021/07/despite-putins-words-moscow-does.html">Despite Putin’s Words, Moscow Does Recognize the Ukrainian Language as Distinct, Yaroshinskaya Says</a>":</p>
+<p style="padding-left: 40px;">            Staunton, July 17 – <a href="https://en.wikipedia.org/wiki/Alla_Yaroshinskaya">All[a] Yaroshinskaya</a>, a senior Moscow commentator who was politically active at the end of Soviet times and the beginning of Russian ones, says that whatever Vladimir Putin says about Russians and Ukrainians being one people, even he has been forced to recognize that a separate Ukrainian language has existed for a long time.<br /><br />            Beyond question, Putin wants Ukrainians to speak Russian; but his discussion of the history of Russian-Ukrainian relations unintentionally calls attention to Russian efforts from the 18th century up to now of Moscow’s efforts to restrict Ukrainian, an acknowledgement of its existence and power (rosbalt.ru/blogs/2021/07/15/1911461.html).</p>
+<p style="padding-left: 40px;">         Again and again the tsars and the commissars and now “democratic” Russian leaders have tried to restrict Ukrainian and get Ukrainians to speak Russian. Yaroshinskaya details the decrees and decisions of Russian rulers from the times of Peter the Great to the present; and she points as well to the single exception until now.</p>
+<p style="padding-left: 40px;"><span id="more-51618"></span></p>
+<p style="padding-left: 40px;">            That was the period in the 1920s when the Soviets, under their policy of korenizatsiya or “rooting,” required all officials in the non-Russian republics to know the titular language on pain of losing their jobs. That policy created a large cadre of people with new linguistic skills and helped win support among the non-Russians for Soviet power.<br /><br />            But in the early 1930s, Stalin ended that policy and returned to the Russian-first one of his predecessors and successors. Like them, he believed that the promotion of non-Russian languages helped power the rise of nationalistic and secessionist sympathies and movements and therefore suppressed those who had risen under <i>korenizatsiya</i>.<br /><br />            “History,” Yaroshinskaya says, “as is well known repeats itself. Today in Ukraine is taking place so to speak a corrected version of korenizatsiya. And in doing so, the present-day Kyiv authorities are acting in the best traditions of the Muscovite Bolsheviks.” The successors of the latter are reacting in exactly the same way too.<br /><br />            But in doing so, they are admitting de facto what they publicly deny: Ukrainian is a self-standing language; it isn’t some dialect of Russian that can be readily suppressed.</p>
+<p>Alla Yaroshinskaya is a formidable figure.  Born (February 14, 1953) in Zhytomyr Oblast, Ukraine and educated at Kiev University, she is noted, among many other achievements, "For revealing, against official opposition and persecution, the extent of the damaging effects of the Chernobyl disaster on local people."  (<a href="https://rightlivelihood.org/the-change-makers/find-a-laureate/alla-yaroshinskaya/">source</a>)</p>
+<p>In closing, I would note that the question of whether Ukrainian is a separate language from Russian reverberates profoundly with the contention over whether the major topolects of Sinitic are separate languages from Mandarin, formerly a perennial matter of debate on Language Log, but more recently and increasingly only an issue of concern for ardent Chinese nationalists.</p>
+<p>&nbsp;</p>
+<p><b>Selected readings</b></p>
+<ul>
+<li>"<a title="Permanent link to What're Ukraine About?" href="https://languagelog.ldc.upenn.edu/nll/?p=10891" rel="bookmark">What're Ukraine About?</a>" (3/6/14)</li>
+<li>"<a title="Permanent link to Tattoos as a means of communication" href="https://languagelog.ldc.upenn.edu/nll/?p=4159" rel="bookmark">Tattoos as a means of communication</a>" (9/1/12) &#8212; see also under other posts about early Scythians</li>
+</ul>
+<p>&nbsp;</p>
+<p>[h.t. Don Keyser]</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51618&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ukrainian-is-not-russian#comments" thr:count="10" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51618" thr:count="10" />
+			<thr:total>10</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Victor Mair</name>
+							<uri>https://ealc.sas.upenn.edu/people/prof-victor-h-mair</uri>
+						</author>
+
+		<title type="html"><![CDATA[&quot;Train hard, dream big&quot;]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51612&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=train-hard-dream-big" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51612</id>
+		<updated>2021-07-26T05:10:39Z</updated>
+		<published>2021-07-26T05:10:39Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Alphabets" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Elephant semifics" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Errors" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Information technology" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Lost in translation" />
+		<summary type="html"><![CDATA[[This is a guest post by Bernhard Riedel] I stumbled across what was probably a mis-MT in the context of the Olympic Games.  (article in Korean) "During a foot kick on the way to the gold medal, some hangul became visible. But&#8230;" On the black belt of the athlete from Spain, one can see "기차 [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51612&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=train-hard-dream-big"><![CDATA[<p>[This is a guest post by Bernhard Riedel]</p>
+<p>I stumbled across what was probably a mis-MT in the context of the Olympic Games.  (<a href="https://www.yna.co.kr/view/MYH20210725011200704">article in Korean</a>)</p>
+<p style="padding-left: 40px;">"During a foot kick on the way to the gold medal, some hangul became visible. But&#8230;"</p>
+<p>On the black belt of the athlete from Spain, one can see "기차 하드, 꿈 큰" which is wonderful gibberish. Netizens in Korea were puzzled but also quick to guess an erroneous machine translation.</p>
+<p style="padding-left: 40px;">기차(汽車): (railway) train (definitely <b class="moz-txt-star"><span class="moz-txt-tag">*</span>not<span class="moz-txt-tag">*</span></b> related to "to train") <br />하드: (en:hard, transliterated) <br />꿈: dream (noun built from the verb 꾸다(to dream) with the nominalizer ㅁ/음) <br />큰: big (from the verb 크다) in the form used when modifying a noun that follows</p>
+<p><span id="more-51612"></span></p>
+<p>So, "Train hard, dream big" after a trip through the meat grinder^^</p>
+<p>&nbsp;</p>
+<p><b>Selected readings</b></p>
+<ul>
+<li>"<a title="Permanent link to The curling Kims" href="https://languagelog.ldc.upenn.edu/nll/?p=36956" rel="bookmark">The curling Kims</a>" (2/28/18)</li>
+<li>"<a title="Permanent link to His Coffeeness" href="https://languagelog.ldc.upenn.edu/nll/?p=11717" rel="bookmark">His Coffeeness</a>" (4/10/14) &#8212; especially in the comments</li>
+<li>"<a title="Permanent link to The World Alphabet
+        Olympics" href="https://languagelog.ldc.upenn.edu/nll/?p=4253" rel="bookmark">The World Alphabet Olympics</a>" (10/16/12)</li>
+<li>"<a title="Permanent link to Hockey language
+        divergence between North Korea and South Korea" href="https://languagelog.ldc.upenn.edu/nll/?p=36682" rel="bookmark">Hockey language divergence between North Korea and South Korea</a>" (2/11/18)</li>
+</ul>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51612&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=train-hard-dream-big#comments" thr:count="1" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51612" thr:count="1" />
+			<thr:total>1</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Victor Mair</name>
+							<uri>https://ealc.sas.upenn.edu/people/prof-victor-h-mair</uri>
+						</author>
+
+		<title type="html"><![CDATA[The Ossetes]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51605&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-ossetes" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51605</id>
+		<updated>2021-07-25T13:04:59Z</updated>
+		<published>2021-07-25T07:00:06Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Announcements" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Language and archeology" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Language and history" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Language and literature" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Language and religion" />
+		<summary type="html"><![CDATA[Here at Language Log we know our Ossetes and have been learning much about Scythians (see "Selected readings"), so it is good to have this new (forthcoming) book by Richard Foltz:  The Ossetes: Modern-Day Scythians of the CaucasusNew York / London: I. B. Tauris / Bloomsbury, 24 February 2022 Publisher's description: The Ossetes, a small [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51605&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-ossetes"><![CDATA[<p>Here at Language Log we know our Ossetes and have been learning much about Scythians (see "Selected readings"), so it is good to have this new (forthcoming) book by Richard Foltz: </p>
+<p style="padding-left: 40px;"><em>The Ossetes: Modern-Day Scythians of the Caucasus</em><br />New York / London: I. B. Tauris / Bloomsbury, 24 February 2022</p>
+<p><a href="https://www.bloomsbury.com/us/ossetes-9780755618477">Publisher's description</a>:</p>
+<p style="padding-left: 40px;">The Ossetes, a small nation inhabiting two adjacent states in the central Caucasus, are the last remaining linguistic and cultural descendants of the ancient nomadic Scythians who dominated the Eurasian steppe from the Balkans to Mongolia for well over one thousand years. A nominally Christian nation speaking a language distantly related to Persian, the Ossetes have inherited much of the culture of the medieval Alans who brought equestrian culture to Europe. They have preserved a rich oral literature through the epic of the Narts, a body of heroic legends that shares much in common with the Persian Book of Kings and other works of Indo-European mythology. This is the first book devoted to the little-known history and culture of the Ossetes to appear in any Western language. Charting Ossetian history from Antiquity to today, it will be a vital contribution to the fields of Iranian, Caucasian, Post-Soviet and Indo-European Studies.</p>
+<p><span id="more-51605"></span></p>
+<p>Table of Contents</p>
+<p style="padding-left: 40px;">List of Illustrations<br /><br />Preface<br /><br />Acknowledgements<br /><br />Historical Timeline<br /><br />A Note on Transcriptions<br /><br />Introduction: The Ossetes: Caucasians, Iranians, or Both?<br /><br />1. The Scythians: Mounted Archers of the Steppes<br /><br />2. From Sarmatians to Alans: An Iranian Element in the History of Europe<br /><br />3. The Nart Epic: A Neglected Treasure of Indo-European Mythology<br /><br />4. The Ossetes and Russia: A Special Relationship<br /><br />5. Religion and National Identity: The Uatsdin<br /><br />6. South Ossetia: A Fragile Independence<br /><br />7. Life in Ossetia Today<br /><br />Appendix: A Popular Ossetian Love Song<br /><br />Bibliography<br /><br />Index</p>
+<p>In the grand sweep of Eurasian history for the past four millennia, Iranian peoples have often been overlooked, and groups such as the Sogdians and Khotanese who died out after the medieval period are barely known today &#8212; though making a gradual comeback thanks to the labors of dedicated philologists, historians of religion, and other specialists.  Yet it was these same Iranian peoples who were often drivers of commerce, culture, and civilization.  They were, as I am fond of calling them, <em>Kulturvermittlers par excellence.  </em>Consequently, I welcome works such as Richard Foltz's <em>The Ossetes</em> that will enable the premodern Iranian peoples to be better known to the general public.</p>
+<p>&nbsp;</p>
+<p><b>Selected readings</b></p>
+<ul>
+<li>"<a title="Permanent link to The dissemination of
+        iron and the spread of languages" href="https://languagelog.ldc.upenn.edu/nll/?p=49002" rel="bookmark">The dissemination of iron and the spread of languages</a>" (11/5/20)</li>
+<li>"<a title="Permanent link to Know your Narts: cattle
+        rearing and cattle raiding" href="https://languagelog.ldc.upenn.edu/nll/?p=47352" rel="bookmark">Know your Narts: cattle rearing and cattle raiding</a>" (6/6/20)</li>
+<li>"<a title="Permanent link to Know your Ossetians" href="https://languagelog.ldc.upenn.edu/nll/?p=46073" rel="bookmark">Know your Ossetians</a>" (2/17/20)</li>
+<li>"<a title="Permanent link to
+        Blue-Green Iranian " href="https://languagelog.ldc.upenn.edu/nll/?p=44784" rel="bookmark">Blue-Green Iranian 'Danube'</a>" (10/26/19)</li>
+<li>"<a title="Permanent link to Sword
+        out of the stone" href="https://languagelog.ldc.upenn.edu/nll/?p=462" rel="bookmark">Sword out of the stone</a>" (8/9/08) &#8212; and see especially <a href="https://languagelog.ldc.upenn.edu/nll/?p=462#comment-6943">this comment</a></li>
+<li>"<a title="Permanent link to Of
+        reindeer and Old Sinitic reconstructions" href="https://languagelog.ldc.upenn.edu/nll/?p=41164" rel="bookmark">Of reindeer and Old Sinitic reconstructions</a>" (12/23/18)</li>
+<li>"<a title="Permanent link to Horses,
+        soma, riddles, magi, and animal style art in southern China" href="https://languagelog.ldc.upenn.edu/nll/?p=44944" rel="bookmark">Horses, soma, riddles, magi, and animal style art in southern China</a>" (11/11/19)</li>
+<li>"<a title="Permanent link to Of
+        armaments and Old Sinitic reconstructions, part 6" href="https://languagelog.ldc.upenn.edu/nll/?p=35845" rel="bookmark">Of armaments and Old Sinitic reconstructions, part 6</a>" (12/23/17)</li>
+<li>"<a title="Permanent link to Of horse
+        riding and Old Sinitic reconstructions" href="https://languagelog.ldc.upenn.edu/nll/?p=42523" rel="bookmark">Of horse riding and Old Sinitic reconstructions</a>" (4/21/19)</li>
+<li>"<a title="Permanent link to Of
+        jackal and hide and Old Sinitic reconstructions" href="https://languagelog.ldc.upenn.edu/nll/?p=41045" rel="bookmark">Of jackal and hide and Old Sinitic reconstruction</a>" (12/16/18)</li>
+<li>"<a title="Permanent link to Indo-European religion, Scythian
+        philosophy, and the date of Zoroaster: a linguistic quibble" href="https://languagelog.ldc.upenn.edu/nll/?p=48715" rel="bookmark">Indo-European religion, Scythian philosophy, and the date of Zoroaster: a linguistic quibble</a>" (10/9/20) — with a bibliography of numerous relevant previous posts</li>
+<li>"<a title="Permanent link to Trefoils across Eurasia: the
+        importance of archeology for historical linguistics, part 4" href="https://languagelog.ldc.upenn.edu/nll/?p=48773" rel="bookmark">Trefoils across Eurasia: the importance of archeology for historical linguistics, part 4</a>" (10/11/20)</li>
+<li>"<a title="Permanent link to Headless men with face on chest" href="https://languagelog.ldc.upenn.edu/nll/?p=48583" rel="bookmark">Headless men with face on chest</a>" (9/28/20)</li>
+<li>"<a title="Permanent link to " href="https://languagelog.ldc.upenn.edu/nll/?p=49025" rel="bookmark">'Skin' and 'hide' ('pelt') in Old Sinitic and Proto-Indo-European</a>" (11/7/20)</li>
+<li>"<a title="Permanent link to Of armaments and Old Sinitic
+        reconstructions, part 6" href="https://languagelog.ldc.upenn.edu/nll/?p=35845" rel="bookmark">Of armaments and Old Sinitic reconstructions, part 6</a>" (12/23/17) — particularly pertinent, and also draws on art history as well as archeology</li>
+<li>"<a title="Permanent link to " href="https://languagelog.ldc.upenn.edu/nll/?p=44941" rel="bookmark">'Horse Master in IE and in Sinitic</a>" (11/9/19)</li>
+<li>"<a title="Permanent link to Ashkenazi and Scythians" href="https://languagelog.ldc.upenn.edu/nll/?p=51481" rel="bookmark">Ashkenazi and Scythians</a>" (7/13/21)</li>
+<li>"<a title="Permanent link to " href="https://languagelog.ldc.upenn.edu/nll/?p=46964" rel="bookmark">'The old man at the pass loses his horse'</a>" (5/2/20)</li>
+<li>"<a title="Permanent link to Tattoos as a means of
+        communication" href="https://languagelog.ldc.upenn.edu/nll/?p=4159" rel="bookmark">Tattoos as a means of communication</a>" (9/1/12)</li>
+<li>"<a title="Permanent link to The importance of archeology for
+        historical linguistics" href="https://languagelog.ldc.upenn.edu/nll/?p=46953" target="_blank" rel="bookmark noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D46953&amp;source=gmail&amp;ust=1601308739267000&amp;usg=AFQjCNHuNG-0zzUoARYDkvGt3d2lyXIRjw">The importance of archeology for historical linguistics</a>" (5/1/20)</li>
+<li>"<a title="Permanent link to The importance of archeology for
+        historical linguistics, part 2" href="https://languagelog.ldc.upenn.edu/nll/?p=47047" target="_blank" rel="bookmark noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D47047&amp;source=gmail&amp;ust=1601308739267000&amp;usg=AFQjCNGXsAQMwB5rUOPg-91jPta9yRA3YA">The importance of archeology for historical linguistics, part 2</a>" (5/11/20)</li>
+<li>C. Scott Littleton, "Were Some of the Xinjiang Mummies 'Epi-Scythians'? An Excursus in Trans-Eurasian Folklore and Mythology." In Victor H. Mair, <em>The Bronze Age and Early Iron Age Peoples of Eastern Central Asia</em> (Washington D.C. and Philadelphia: Institute for the Study of Man and the University of Pennsylvania Museum, 1998), vol. 2, pp. 746-766.</li>
+<li>C. Scott Littleton and Linda A. Malcor, <i>From Scythia to Camelot: A Radical Reassessment of the Legends of King Arthur, the Knights of the Round Table, and the Holy Grail</i> (New York and London: Garland, 1994; rev. pb. 2000). In the British journal, Religion, 28.3 (July, 1998), 294-300, I [VHM] wrote a review in which I pointed out that the celebrated motif of a mighty arm rising up out of the water holding aloft the hero's sword can also be found in a medieval Chinese tale from Dunhuang. That review is available electronically from ScienceDirect, if your library subscribes to it. Otherwise, I think <a href="http://www.heroicage.org/issues/2/ha2tf.htm">this version</a> on the Web is a fairly faithful copy.</li>
+</ul>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51605&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-ossetes#comments" thr:count="3" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51605" thr:count="3" />
+			<thr:total>3</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Victor Mair</name>
+							<uri>https://ealc.sas.upenn.edu/people/prof-victor-h-mair</uri>
+						</author>
+
+		<title type="html"><![CDATA[GE]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51584&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ge" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51584</id>
+		<updated>2021-07-23T18:58:32Z</updated>
+		<published>2021-07-23T16:14:53Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Colloquial" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Grammar" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Idioms" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Semantics" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Syntax" />
+		<summary type="html"><![CDATA[The particle "ge 個/个" is one of the most frequent characters in written Chinese (12th in a list of 9,933 unique characters).  It is generally thought of as a classifier, numerary adjunct, measure word.  Indeed, it functions as the almost universal, default classifier when you're not sure what the correct / proper measure word for [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51584&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ge"><![CDATA[<p>The particle "ge 個/<span class="VIiyi" lang="zh-CN"><span class="JLqJ4b" data-language-for-alternatives="zh-CN" data-language-to-translate-into="zh-CN" data-phrase-index="0">个"</span></span> is one of the most frequent characters in written Chinese (<a href="https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO">12th in a list of 9,933 unique characters</a>).  It is generally thought of as a classifier, numerary adjunct, measure word.  Indeed, it functions as the almost universal, default classifier when you're not sure what the correct / proper measure word for a given noun should be.  In addition, "ge" has more than a dozen other definitions and usages, for which see <a href="https://en.wiktionary.org/wiki/%E5%80%8B">Wiktionary</a>. However, I'm not sure that any dictionary or grammar accounts for a very special usage that I have long been intrigued and enchanted by, namely the "ge" in this type of sentence:</p>
+<p style="padding-left: 40px;">Wǒ máng de gè yàosǐ</p>
+<p style="padding-left: 40px;">我忙得個要死!</p>
+<p style="padding-left: 40px;">"I'm so busy I could die!", i.e., "I'm incredibly busy!"</p>
+<p>Here de 得 is a particle marking the complement of degree.</p>
+<p>Because I lived with a big household full of Chinese (Shandong) in-laws, I picked this construction up very early in my learning of spoken Mandarin, but I always had a visceral feeling that it was extremely colloquial and unlikely to be encountered in written texts and was probably not covered in conventional grammars.  So I asked around among colleagues and native speaker informants how they would explain this unusual "ge", grammatically or otherwise.  Here are some of the replies I received.</p>
+<p><span id="more-51584"></span></p>
+<p>A speaker of northwest Mandarin says that she never heard this usage in her whole life and thinks it may be a southernism.</p>
+<p>Here are some examples given by other respondents:</p>
+<p style="padding-left: 40px;">Jīn wǎn wánr gè tòngkuài!</p>
+<p style="padding-left: 40px;">今晚玩儿个痛快!</p>
+<p style="padding-left: 40px;">Let's have a really good time tonight!</p>
+<p>&nbsp;</p>
+<p style="padding-left: 40px;">Xiān chī ge bǎo zài shuō!</p>
+<p style="padding-left: 40px;">先吃個飽再說！</p>
+<p style="padding-left: 40px;">Let's have a full meal first, then we'll decide what to do!</p>
+<p>&nbsp;</p>
+<p style="padding-left: 40px;">One of my favorite insults:</p>
+<p style="padding-left: 40px;">Nǐ dǒng gè pì</p>
+<p style="padding-left: 40px;"><span class="VIiyi" lang="zh-CN"><span class="JLqJ4b" data-language-for-alternatives="zh-CN" data-language-to-translate-into="zh-CN" data-phrase-index="0">你懂个屁</span></span></p>
+<p style="padding-left: 40px;">"You know shit."</p>
+<p>I don't think that any of these sentences exactly fit the paradigm of the original example, but they are illustrative of other idiomatic usages of "ge".</p>
+<p>The following are some longer communications:</p>
+<p style="padding-left: 40px;">Maiheng Dietrich:</p>
+<p style="padding-left: 40px;">I don't really have an answer for your question. I don't think it can be explained with grammar, because the "ge" is not present in standard Mandarin máng dé yàosǐ 忙得要死. My guess is this colloquial expression fulfills or stresses a certain emotion of the speaker, similar to some people's usage of swear words for purpose of emphasis or intensification (of course, "ge" is no swear word).</p>
+<p>&nbsp;</p>
+<p style="padding-left: 40px;">Zheng-sheng Zhang:</p>
+<p style="padding-left: 40px;">So "ge" is not restricted to occur only after "de".  One more example:  Dǎ (le) gè luòhuāliúshuǐ 打（了）个落花流水。("beat somebody to pieces / a pulp")</p>
+<p style="padding-left: 40px;">"ta" [3rd person pronoun] often occurs before "ge": 打他个落花流水。 了 doesn't seem to fit here.  I wonder why?</p>
+<p>&nbsp;</p>
+<p style="padding-left: 40px;">Jing Hu:</p>
+<p style="padding-left: 40px;">I think that  "ge" here in this sentence is to emphasize the speaker's opinion / tone subjectively (in a colloquial language):</p>
+<p style="padding-left: 40px;">1. to emphasize "do something / or something is too big / to a great extent (subjectively)"; "个” is put between verb / adjective and complement, for example:</p>
+<p style="padding-left: 80px;">喝（得）个痛快 / 喝（得）个一醉方休</p>
+<p style="padding-left: 80px;">玩个痛快</p>
+<p style="padding-left: 80px;">打他个落花流水</p>
+<p style="padding-left: 80px;">扫得个干干净净<br /><br />Adjectives:</p>
+<p style="padding-left: 80px;">忙/饿/累 得个要死<br />脏得个要命<br />（there is "死“ in the above sentences, so the adjectives are normally negative）</p>
+<p style="padding-left: 40px;">2. to emphasize the small quantity/the degree is light subjectively (the speaker subjectively feels "easy, relax, not a big deal etc.):</p>
+<p style="padding-left: 40px;">For example:</p>
+<p style="padding-left: 80px;">面个试还这么紧张。</p>
+<p style="padding-left: 80px;">吃个饭还这么捯饬。</p>
+<p style="padding-left: 80px;">逛个街还这么麻烦。</p>
+<p style="padding-left: 80px;">一天走个十来里路不算什么啊！</p>
+<p>&nbsp;</p>
+<p style="padding-left: 40px;">Anwei Feng:</p>
+<p style="padding-left: 40px;">I think I heard such ‘ge’ in a sentence like this before, but I don’t think it is always employed in speech. My gut feeling is that it might be used by speakers of a specific dialect(s) / topolect(s). The explanation for that ‘ge’ should therefore be best given by dialectologists who know that dialect(s).</p>
+<p>&nbsp;</p>
+<p style="padding-left: 40px;">Don Snow:</p>
+<p style="padding-left: 40px;">First, I'm pretty sure it doesn't come from Cantonese &#8211; at least it doesn't sound right to me in Cantonese (though I am open to correction from those who know the language better than I do). <br /><br />However&#8230;. I have been studying Suzhounese with one of the staff in my center, and asked her about this; she in turn consulted with some friends. The consensus was that inserting a ge in examples like the one you gave is fairly normal in both Suzhounese and in Mandarin spoken by Suzhounese people. As to function, it basically adds emphasis. So, at least around here, by adding ge instead of simply saying "I am busy to death", you are saying "I am really busy to death!"</p>
+<p>&nbsp;</p>
+<p style="padding-left: 40px;">Neil Kubler:</p>
+<div style="padding-left: 40px;">Of course, Wo mangde yaosi is even more common but, yes, I've heard Wo mangde ge yaosi and my spouse (very traditional Beijing family who grew up in Taiwan) just confirmed that this can indeed be said, is very COLLOQUIAL, and is EVEN STRONGER than just Wo mangde yaosi.</div>
+<div style="padding-left: 40px;"> </div>
+<div style="padding-left: 40px;">Obviously this is on the pattern of chi ge tongkuai and mang ge buting.</div>
+<div style="padding-left: 40px;"> </div>
+<div style="padding-left: 40px;">Jerling (my wife) offers two more examples:</div>
+<p style="padding-left: 40px;">rang ni chide ge bao</p>
+<div style="padding-left: 40px;">rang ni chide ge guoyin</div>
+<p style="padding-left: 40px;">&#8212;</p>
+<div style="padding-left: 40px;">In addition to my comments about Wo mangde ge yaosi that I sent you, I suspect it's also "Northern-style Mandarin," not Southern.</div>
+<div style="padding-left: 40px;"> </div>
+<div style="padding-left: 40px;">I'm in Taiwan now and casually asked 2 of my grad students and they had not heard it &#8212; one said it was ungrammatical and the other said he had heard it but only from Northern Chinese. On the other hand, just Wo mangde yaosi without the ge is very common in Taiwan. In fact, whereas traditionally the resultative ending -si is supposed to be for infelicitous things (qisi, guisi), it's also often used for happy things: Wo gaoxingsi le!</div>
+<p>&nbsp;</p>
+<p style="padding-left: 40px;">Wolfgang Behr:</p>
+<p style="padding-left: 40px;">Historically, both ge and de could serve as complement (補語) markers in [VP + ge/de + complement] constructions since the Yuan period, with subtle differencces in the kinds of complements, types of definiteness, negation etc. involved. To me the construction looks like a conflation of both types, where BOTH ge and de are prosodically reduced markers introducing the complement. There is, however, a sizeable group of well-known scholars who consider ge as a measure word or classifier in such constructions, which would belong with the object, such that in sentences with both ge and de, de's function would be to introduce a complement NP, which would be internally classified by ge. <br /><br />I am attaching three papers [VHM:  omitted for this post] related to this problem: Sun Tianqi discusses all theoretical approaches proposed in the literature (and adds his own generative solution); Zhu Yubin provides a historical dimension since the Yuan period; and the old article by You Rujie offers a simple breakdown of the different semantic types of VP + ge vs.  VP + de.</p>
+<p>&nbsp;</p>
+<p style="padding-left: 40px;">Zihan Guo:</p>
+<div style="padding-left: 40px;">I hear more often expressions like “&#8230;(你)個頭," used to negate in an emphatic way or to convey irritation, complaint. For example,</div>
+<div style="padding-left: 40px;"> </div>
+<div style="padding-left: 40px;">
+<blockquote style="padding-left: 40px;">“你是不是在騙我？” “是你個頭！/ 騙你個頭！”<br />“我覺得這樣很好。” “好你個頭！”<br />“我還想再睡一會兒。” “睡你個頭！”</blockquote>
+</div>
+<div> </div>
+<div style="padding-left: 40px;">"&#8230;你個頭" might strike people as rude, but often used between very intimate friends, I think. And sometimes it is not used to express real discontent, but feels more like throwing a tantrum at someone close to you.</div>
+<div style="padding-left: 40px;"> </div>
+<div style="padding-left: 40px;">I am not sure if strictly speaking there is a grammatical base to the use of 個 here, but in general it adds much more stress and force to the statement.</div>
+<p>Although I knew 個頭 with the pronunciation and meaning gètóu ("height; build; stature"), I had never encountered it with the pronunciation and meaning gè tóu ([slang, mildly rude] "my ass / arse"), so I am especially grateful to Zihan for helping me increase my command of genuine, spoken Mandarin.</p>
+<p>Incidentally, the difference between gètóu and gè tóu supports my contention for the vital semantic, syntactic, and grammatical significance of pauses in Sinitic speech, which I have often argued for on Language Log &#8212; even micropauses and slight differences in intonation matter and convey important information / nuances.  Finally, writing gètóu and gè tóu in Pinyin demonstrates the superiority of the latter over Sinographs in depicting the subtleties of spoken language.</p>
+<p>&nbsp;</p>
+<p><b>Selected readings</b></p>
+<ul>
+<li>"<a title="Permanent link to GA" href="https://languagelog.ldc.upenn.edu/nll/?p=33963" rel="bookmark">GA</a>" (8/6/17)</li>
+<li>"<a title="Permanent link to Dwindling measure words in Mandarin" href="https://languagelog.ldc.upenn.edu/nll/?p=46054" rel="bookmark">Dwindling measure words in Mandarin</a>" (2/13/20)</li>
+<li>"<a title="Permanent link to A [class.] zoo" href="https://languagelog.ldc.upenn.edu/nll/?p=17162" rel="bookmark">A [class.] zoo</a>" (1/18/15)</li>
+<li>"<a title="Permanent link to " href="https://languagelog.ldc.upenn.edu/nll/?p=48447" rel="bookmark">'That, that, that…', part 3</a>" (9/14/20)</li>
+<li>"<a title="Permanent link to " href="https://languagelog.ldc.upenn.edu/nll/?p=48302" rel="bookmark">'That, that, that…', part 2</a>" (8/28/20)</li>
+<li>"<a title="Permanent link to That, that, that…" href="https://languagelog.ldc.upenn.edu/nll/?p=23691" target="_blank" rel="bookmark noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://languagelog.ldc.upenn.edu/nll/?p%3D23691&amp;source=gmail&amp;ust=1598739217789000&amp;usg=AFQjCNGwqSHLxyIyVuN1GdJ2q2Z7k-aTRA">That, that, that…</a>" (1/24/16)</li>
+</ul>
+<p>[Thanks to David Moser, Robert Sanders, Cynthia Ning, and Diana Zhang]</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51584&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ge#comments" thr:count="16" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51584" thr:count="16" />
+			<thr:total>16</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Mark Liberman</name>
+							<uri>http://ling.upenn.edu/~myl</uri>
+						</author>
+
+		<title type="html"><![CDATA[Cultural evolution]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51597&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cultural-evolution" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51597</id>
+		<updated>2021-07-23T05:46:18Z</updated>
+		<published>2021-07-23T05:46:18Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Linguistics in the comics" />
+		<summary type="html"><![CDATA[Recently on SMBC: Mouseover title: "Let us now fight about the plural of emoji." The aftercomic: A relevant recent Dinosaur Comic: The mouseover title: "friends, some personal news: when it comes to life, i have decided to Tweet My Way Through It". The previous strip: The mouseover title: "honestly? hard to see how i'm not [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51597&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cultural-evolution"><![CDATA[<p>Recently on <a href="https://www.smbc-comics.com/comic/perfect-life" rel="noopener" target="_blank">SMBC</a>:<br />
+<a href="http://languagelog.ldc.upenn.edu/myl/SageInstagram.png"><img src="http://languagelog.ldc.upenn.edu/myl/SageInstagram.png" width="490" title="Click to embiggen"/></a><br />
+<span id="more-51597"></span></p>
+<p>Mouseover title: "Let us now fight about the plural of emoji."</p>
+<p>The aftercomic:<br />
+<a href="http://languagelog.ldc.upenn.edu/myl/SageInstagramAfter.png"><img src="http://languagelog.ldc.upenn.edu/myl/SageInstagramAfter.png" width="490" title="Click to embiggen"/></a></p>
+<p>A relevant recent <a href="https://qwantz.com/index.php?comic=3773" rel="noopener" target="_blank">Dinosaur Comic</a>:<br />
+<a href="http://languagelog.ldc.upenn.edu/myl/DinosaurSocialMediaAutobiography.png"><img src="http://languagelog.ldc.upenn.edu/myl/DinosaurSocialMediaAutobiography.png" width="490" title="Click to embiggen"/></a></p>
+<p>The mouseover title: "friends, some personal news: when it comes to life, i have decided to Tweet My Way Through It".</p>
+<p>The <a href="https://qwantz.com/index.php?comic=3772" rel="noopener" target="_blank">previous strip</a>:</p>
+<p><a href="http://languagelog.ldc.upenn.edu/myl/DinosaurYelpForIdeas.png"><img src="http://languagelog.ldc.upenn.edu/myl/DinosaurYelpForIdeas.png" width="490" title="Click to embiggen"/></a></p>
+<p>The mouseover title: "honestly?  hard to see how i'm not going to be even more critical when reviewing the IDEA of ryan north"</p>
+<p>It <a href="https://en.wikipedia.org/wiki/Social_Credit_System" rel="noopener" target="_blank">could be worse</a>&#8230;</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51597&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cultural-evolution#comments" thr:count="10" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51597" thr:count="10" />
+			<thr:total>10</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Mark Liberman</name>
+							<uri>http://ling.upenn.edu/~myl</uri>
+						</author>
+
+		<title type="html"><![CDATA[English as Afrikaans?]]></title>
+		<link rel="alternate" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51595&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=english-as-afrikaans" />
+
+		<id>https://languagelog.ldc.upenn.edu/nll/?p=51595</id>
+		<updated>2021-07-23T06:53:50Z</updated>
+		<published>2021-07-22T11:17:23Z</published>
+		<category scheme="https://languagelog.ldc.upenn.edu/nll" term="Computational linguistics" /><category scheme="https://languagelog.ldc.upenn.edu/nll" term="Elephant semifics" />
+		<summary type="html"><![CDATA[Language-identification from digital text has been a solved problem for many years, so I was surprised yesterday to see Gmail offering to translate from Afrikaans an email written in perfectly idiomatic English, which started this way: The rest of the email had a few acronyms and Israeli place-names, and it did mention "Hebrew", but those [&#8230;]]]></summary>
+
+					<content type="html" xml:base="https://languagelog.ldc.upenn.edu/nll/?p=51595&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=english-as-afrikaans"><![CDATA[<p>Language-identification from digital text has been a solved problem for many years, so I was surprised yesterday to see Gmail offering to translate from Afrikaans an email written in perfectly idiomatic English, which started this way:</p>
+<p><a href="http://languagelog.ldc.upenn.edu/myl/EnglishAsAfrikaans.png"><img title="Click to embiggen" src="http://languagelog.ldc.upenn.edu/myl/EnglishAsAfrikaans.png" width="490" /></a></p>
+<p><span id="more-51595"></span></p>
+<p>The rest of the email had a few acronyms and Israeli place-names, and it did mention "Hebrew", but those features don't help solve the mystery of why Gmail assigned it to the category of <em>Afrikaans</em>. My guess is that it's one of the (essentially inexplicable) vagaries of modern deep-learning technology, but who knows?</p>
+<p>&nbsp;</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="https://languagelog.ldc.upenn.edu/nll/?p=51595&#038;utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=english-as-afrikaans#comments" thr:count="9" />
+			<link rel="replies" type="application/atom+xml" href="https://languagelog.ldc.upenn.edu/nll/?feed=atom&#038;p=51595" thr:count="9" />
+			<thr:total>9</thr:total>
+			</entry>
+	</feed>
