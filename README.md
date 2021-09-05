@@ -1,2 +1,2 @@
 # NLP_king
-NLP solved problems
+Learn to use Machine Learning, Spacy, NLTK, SciKit-Learn, Deep Learning, and more to conduct Natural Language Processing
